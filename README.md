@@ -1,2 +1,3 @@
 # Manuale operativo per servizi di accesso pinless basati sulla CIE
 
+Scopo del documento è descrivere il protocollo operativo necessario per utilizzare la Carta di Identità Elettronica 3.0 (CIE) come strumento per la fruizione di servizi fisici di accesso pinless, ovvero senza l'uso del PIN della CIE. Il protocollo può essere applicato ai casi d'uso in cui è richiesto un accesso fisico veloce, come nel casi di mezzi di trasporto, di luoghi di lavoro e aree con accesso controllato. Il protocollo si basa sulla lettura e verifica di autenticità del Numero Identificavo Servizi (NIS), un numero univoco, associato ad ogni CIE, liberamente accessibile sul chip della carta.
