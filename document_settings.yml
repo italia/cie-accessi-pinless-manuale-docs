@@ -1,6 +1,6 @@
 --- 
 document: 
-  name: "Manuale di integrazione per servizi basati sul NIS"
+  name: "Manuale operativo per servizi di accesso pinless basati sulla CIE"
   short_name: cie-nis
   description: "Protocollo operativo necessario per utilizzare la Carta di Identità Elettronica 3.0 come strumento per la fruizione di servizi fisici di accesso pinless"
   tags: 
